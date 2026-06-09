@@ -34,7 +34,8 @@ taskflow
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido com o objetivo de participação do Vibe Build
+Este projeto foi desenvolvido para participação no Vibe Build, com o objetivo de demonstrar conhecimentos básicos de desenvolvimento web, incluindo HTML, CSS, JavaScript e publicação de aplicações na nuvem utilizando GitHub Pages.
+
 
 ## 🌐 Hospedagem
 
