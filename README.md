@@ -23,13 +23,13 @@ Uma aplicação web simples e intuitiva para gerenciamento de tarefas, desenvolv
 
 ## 📂 Estrutura do Projeto
 
-```text
+```
+
 taskflow
 │
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
+
 ```
 
 ## 🎯 Objetivo
